@@ -114,14 +114,6 @@ so it needs an internet connection.
 pandas, NumPy, SciPy, statsmodels, scikit-learn, XGBoost, LightGBM, PyDESeq2, GSEApy, lifelines,
 UMAP, matplotlib and seaborn.
 
-## AI assistance
 
-We used Claude (Anthropic) for coding guidance, debugging and drafting the report. All code was run and all
-results were checked by the team. The prompts and chat history are linked in the supplementary material.
 
-## References
 
-- Parker JS et al. (2009) Supervised risk predictor of breast cancer based on intrinsic subtypes. *J Clin Oncol* 27:1160–1167.
-- The Cancer Genome Atlas Network (2012) Comprehensive molecular portraits of human breast tumours. *Nature* 490:61–70.
-- Love MI, Huber W, Anders S (2014) DESeq2. *Genome Biology* 15:550.
-- Subramanian A et al. (2005) Gene set enrichment analysis. *PNAS* 102:15545–15550.
