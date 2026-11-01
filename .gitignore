@@ -1,0 +1,16 @@
+# Data (too large for GitHub - re-download with the manifest, see README)
+data/
+
+# Tools / binaries
+tools/
+*.exe
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,8 @@
+,accuracy,accuracy,balanced_accuracy,balanced_accuracy,macro_F1,macro_F1
+,mean,std,mean,std,mean,std
+model,,,,,,
+Logistic Regression,0.898,0.029,0.859,0.035,0.848,0.054
+SVM (linear),0.894,0.02,0.848,0.039,0.842,0.049
+XGBoost,0.911,0.017,0.825,0.019,0.84,0.026
+LightGBM,0.906,0.011,0.806,0.016,0.831,0.03
+Random Forest,0.885,0.028,0.818,0.014,0.831,0.022

@@ -1,0 +1,6 @@
+Comparison,Test,p-value
+Age vs subtype,Kruskal-Wallis,0.0006550955924339269
+stage_group vs subtype,Chi-square,0.0007477020771608773
+ER vs subtype,Chi-square,6.520741879138383e-150
+PR vs subtype,Chi-square,1.9831762343540297e-112
+HER2_IHC vs subtype,Chi-square,1.8489631848858145e-32
