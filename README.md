@@ -1,6 +1,6 @@
 # Breast cancer subtypes in TCGA-BRCA
 
-Term project for **BT3041 – Analysis and Interpretation of Biological Data** (IIT Madras).
+Course project for **BT3041 – Analysis and Interpretation of Biological Data** (IIT Madras).
 
 **Team:** Naveen, Srikanth, Piyush, Vimal, Madhavan
 
